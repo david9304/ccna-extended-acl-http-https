@@ -7,3 +7,10 @@ The network uses static routing on both routers to enable communication between 
 Router2 also functions as a DHCP server, providing IPv4 addresses and default gateway information for the two PCs.
 
 The laptop is configured with a static IP address for testing purposes and to ensure consistent ACL behavior during the lab.
+
+
+## Key learning outcomes
+- Extended ACL design and placement
+- Static routing between multiple LANs
+- DHCP configuration on a router
+- Traffic filtering based on protocol and destination
